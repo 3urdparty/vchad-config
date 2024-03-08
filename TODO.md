@@ -1,0 +1,3 @@
+- [ ] - Fix the unreadable icons
+- [ ] - Add emmet plugin and shorthand codes
+- [ ] - Remove unneeded LSP
